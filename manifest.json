@@ -6,7 +6,7 @@
     "companyUrl": "https://example.com",
     "supportedDataSources": ["TABLE"],
     "createVisualElement": {
-      "path": "https://acsasmart2.github.io/funil-looker/index.js"
+    "path": "https://acsasmart2.github.io/funil-looker/index.js"
     }
   }
 }
