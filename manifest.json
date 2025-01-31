@@ -1,0 +1,12 @@
+{
+  "dataStudio": {
+    "name": "Funil Personalizado",
+    "logoUrl": "https://example.com/logo.png",
+    "company": "Minha Empresa",
+    "companyUrl": "https://example.com",
+    "supportedDataSources": ["TABLE"],
+    "createVisualElement": {
+      "path": "index.js"
+    }
+  }
+}
