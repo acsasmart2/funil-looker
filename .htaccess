@@ -1,0 +1,5 @@
+# Configurar MIME para arquivos JSON
+AddType application/json .json
+
+# Configurar MIME para arquivos JavaScript
+AddType application/javascript .js
